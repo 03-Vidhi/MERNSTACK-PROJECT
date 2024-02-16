@@ -55,9 +55,9 @@ git clone https:https://github.com/03-Vidhi/MERNSTACK-PROJECT
 
 3. Install dependencies for both the backend and frontend:
 cd server
-    yarn add
+    npm run dev
 cd client
-    yarn add
+    npm start
 
 
 4. Create a .env file in the server directory and add the following variables:
